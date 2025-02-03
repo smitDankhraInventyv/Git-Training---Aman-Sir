@@ -292,16 +292,18 @@ git merge release
 
 ## Screenshots
 ### 1- set rules for pull request
-![alt text](image-1.png)
+![1](https://github.com/user-attachments/assets/f1807490-5940-4108-b5e9-4b17baa0d1b5)
+
 
 ### 2 - in feature branch rules are created
-![alt text](image-2.png)
+![2](https://github.com/user-attachments/assets/b5a04b77-9966-4fa4-b854-db8243fda0ed)
 
 ### 3 - chcke request code 
-![alt text](image-3.png)
+![3](https://github.com/user-attachments/assets/4e86c27d-f149-4c57-98e8-d52493cfbfc7)
 
 ### 4 - merge pull request
-![alt text](image-4.png)
+![4](https://github.com/user-attachments/assets/2bb2f0a3-3c8a-4f27-9b8c-3b4f51a8bd23)
 
 ### 5 - request added into the feature branch
-![alt text](image-5.png)
+![5](https://github.com/user-attachments/assets/83d2eb11-8b12-432e-9cfe-3ff4f07c41a3)
+
